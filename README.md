@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hola , I'm Kishore Anand Venkatarajulu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
-<h3 align="center">Front End Developer(React) from TamilNadu,India</h3>
+<h3 align="center">Full Stack Developer turned Associate Project Manager from Tamil Nadu, India, with experience in both project and product management, driving impactful solutions and successful outcomes.</h3>
  <br/>
 
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://kishoreanandv.github.io/portfolio/)**
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://kishoreanandvenkatarajulu.netlify.app/)**
 
 - 📫 To Reach my Mail **kishoreanand430@gmail.com**
 
